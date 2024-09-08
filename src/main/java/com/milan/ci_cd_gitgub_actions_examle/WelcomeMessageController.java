@@ -12,12 +12,4 @@ public class WelcomeMessageController {
                 "in ci/cd flow using Github Actions and Docker";
     }
 
-//    echo "# sb_githubActions_Docke_simple_project" >> README.md
-//    git init
-//    git add README.md
-//    git commit -m "first commit"
-//    git branch -M main
-//    git remote add origin https://github.com/milberonja/sb_githubActions_Docke_simple_project.git
-//    git push -u origin main
-
 }
